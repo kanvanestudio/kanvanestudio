@@ -9,8 +9,4 @@ Diseñamos y desarrollamos webs y aplicaciones web con la vista puesta en promoc
 ---
 
 
-### Estamos en A Coruña
-
-
-Haz tu PR, somos agradecidos:  
-![No hay repositorios](https://img.shields.io/badge/STATUS-No_hay_repositorios_activos_para_revisión-FF0000?style=flat-square)
+### 📍 Estamos en A Coruña
